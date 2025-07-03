@@ -4,8 +4,7 @@ This project was completed as part of my data analysis training and focuses on a
 - **Total Records:** 1,465
 - **Total Fields:** 16
 - Product details, prices, discounts, ratings, and customer engagement data.
-
-   ##Analysis Objectives
+##Analysis Objectives
 Using pivot tables, and calculated columns, I analyzed:
 1. What is the average discount percentage by category?
 2. How many products are listed in each category?
