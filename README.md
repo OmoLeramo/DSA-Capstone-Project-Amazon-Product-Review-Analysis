@@ -72,10 +72,42 @@ Using pivot tables, and calculated columns, I analyzed:
 - Top 5 Products by Combined Score (Rating + Review Volume)
     - Created calculated column: = Average Rating + (Rating Count / 1000)
      - Sorted in descending order
-     - Selected top 5 products
+     - Selected top 5 products\
+    ## Key Findings (Facts & Results)
+-  Product Distribution
+   - Electronics has the most products listed (526), followed by Computers & Accessories (453) and Home & Kitchen (447).
+   - The smallest categories include Car & Motorbike, Health & Personal Care, and Toys & Games, each with only 1–2 products.
+- Customer Reviews
+     - Electronics products collected the highest total reviews (approx. 15.8 million).
+     - Computers & Accessories had the second-highest review count (7.7 million).
+- Average Ratings
+   - Highest average rating: Office Products (4.31) and Toys & Games (4.30).
+    - Lowest average rating: Car & Motorbike (3.80).
+- Pricing & Discounting
+    - Categories with the highest average discount percentages: Home Improvement (57.5%) and Health & Personal Care (53%).
+    - Most products (>₹500 price range): 895 products; only 194 products priced below ₹200.
+- Revenue Potential
+   - Estimated highest potential revenue in Electronics (₹98 billion), followed by Computers & Accessories (₹25 billion).
+- Product Ratings Distribution
+   - Majority of products rated between 4.0 and 4.5.
+   - Very few products rated below 3.0.
+-  Discount Threshold
+   - High number of products with ≥50% discount, especially in Electronics and Computers & Accessories.
+     
+## Insights (Business Interpretations & Recommendations)
+ - Electronics dominates Amazon in both volume and potential revenue, suggesting a highly saturated yet lucrative space. Sellers should focus on differentiation (e.g., feature innovation, customer service) rather than pure price competition.
+- Categories with high discounts (Home Improvement, Health & Personal Care) may rely on price to drive sales. However, very deep discounts might indicate excess inventory or attempts to enter crowded markets quickly.
+- High ratings in smaller categories (Office Products, Toys & Games) suggest strong brand loyalty and satisfaction — opportunities for premium pricing or cross-selling strategies.
+- Most products being rated ≥4.0 highlights Amazon’s emphasis on quality control and the importance of maintaining positive customer feedback to stay competitive.
+- No strong correlation between discount levels and ratings indicates that quality and brand reputation matter more to customers than price alone.
+- Large share of higher-priced products (>₹500) suggests Amazon shoppers may favor quality or premium products, opening up space for higher-margin offerings.
+- Strong engagement in Electronics and Computers & Accessories (huge review volumes) presents opportunities for targeted upselling and community building.
+## Recommendations
+- Invest in brand-building and product quality improvements rather than purely focusing on discounts, especially in Electronics and Computers & Accessories.
+- Use discounts strategically to clear inventory or promote new entries — avoid excessive discounting that may hurt brand perception.
+- Consider cross-category promotions leveraging high-rated, niche products (e.g., Office Products, Toys & Games) to increase market coverage.
+- Prioritize getting more customer reviews (social proof) on products with <1,000 reviews to build trust and improve conversion.
    ![Screenshot (93)](https://github.com/user-attachments/assets/912633bf-1b82-46b3-89b0-d84db80bb97f)
-
-
 ![Screenshot (71)](https://github.com/user-attachments/assets/75f69859-d7fd-4cda-b76b-96b406151b89)
 
 
